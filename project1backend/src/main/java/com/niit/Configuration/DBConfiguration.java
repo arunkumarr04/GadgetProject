@@ -12,6 +12,7 @@ import com.niit.models.Customer;
 import com.niit.models.Authorities;
 import com.niit.models.BillingAddress;
 import com.niit.models.ShippingAddress;
+import com.niit.models.Supplier;
 
 import java.util.Properties;
 
@@ -55,7 +56,7 @@ public class DBConfiguration
 		lsf.addProperties(hibernateProperties);
 		//An array of Class objects of all the entities
 		//Map all entities to relational table
-		Class classes[]=new Class[]{Product.class,Category.class,CartItem.class,CustomerOrder.class,User.class,Customer.class,Authorities.class,BillingAddress.class,ShippingAddress.class}; //If product class is not yet created, remove this and add it later
+		Class classes[]=new Class[]{Product.class,Category.class,CartItem.class,CustomerOrder.class,User.class,Customer.class,Authorities.class,BillingAddress.class,ShippingAddress.class,Supplier.class}; //If product class is not yet created, remove this and add it later
 		//localsesionfactorybuilder -> sessionfactory -> map all entities with relation table
 		System.out.println("SessionFactory bean " + lsf);
 	    return lsf.addAnnotatedClasses(classes).buildSessionFactory();
