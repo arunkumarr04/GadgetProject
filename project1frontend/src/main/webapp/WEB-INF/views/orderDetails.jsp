@@ -98,7 +98,12 @@
 
                                 </tbody>
                             </table>
+                            <tr>
+                            <td>
+                           <h4><strong> Thank you for shopping</strong></h4>
                            
+                           </td>tr>
+                           </tr>td>
                         </div>
 
 

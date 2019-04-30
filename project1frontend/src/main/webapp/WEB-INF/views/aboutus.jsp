@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<b>About us Page</b>
+<img src="resources/images/abt.png">
+	<b><p>About us Page</b></p>
 </body>
 </html>

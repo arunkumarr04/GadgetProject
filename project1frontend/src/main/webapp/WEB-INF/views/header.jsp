@@ -28,7 +28,7 @@
 	<div class="container">
 		<nav class="navbar navbar-default" id="nav_bar">
 			<div class="navbar-header">
-				<a href="" class="navbar-brand"><img src="<c:url value='/resources/images/simple img.jpg'></c:url>" alt="NIIT" height="30px" width="70px"></a>
+				
 			<button type="button" class="navbar-toggle collapsed" 
    data-toggle="collapse" data-target="#navbardemo" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -59,6 +59,7 @@
 			   </li>
 			  
 			   <security:authorize access="hasRole('ROLE_ADMIN')">
+			   <li><a href="<c:url value='/supplier'></c:url>">Supplier</a></li>
 			   <li><a href="<c:url value='/admin/getproductform'></c:url>">Add Product</a></li>
 				</security:authorize>    
 			   

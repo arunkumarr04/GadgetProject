@@ -19,7 +19,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="img-circle" src="resources/images/electronics world.jpg" alt="first slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/polar.jpg" alt="first slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>WELCOME TO THE ELECTRONICS WORLD</h1>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-circle" src="resources/images/all in one world.jpg" alt="Second slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/ele.jpg" alt="Second slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>ALL IN ONE WORLD</h1>
@@ -37,20 +37,20 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-circle" src="resources/images/laptop.jpg" alt="Third slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/salee.jpg" alt="Third slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>LOVE YOUR WORK, MAKE TIME RELAX TO SEE THE WORLD</h1>
+                            
                             <p>Invention Breeds Innovation!!</p>
                         </div>
                     </div>
                 </div>
                  <div class="item">
-                    <img class="img-circle" src="resources/images/imagination.jpg" alt="forth slide" height="100%" width="100%">
+                    <img class="img-circle" src="resources/images/Bannerrr.jpg" alt="forth slide" height="100%" width="100%">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1>MORE U LOVE MORE U CAN BUY</h1>
-                            <p>online shopping can make your life more easier!!</p>
+                         
+                            <h1>Online shopping can make your life more easier!!</h1>
                         </div>
                     </div>
                 </div>
