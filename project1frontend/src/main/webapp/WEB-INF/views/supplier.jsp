@@ -44,7 +44,7 @@
 					<td>Supplier Desc</td>
 					<td>Operation</td>
 				</tr>
-				<c:forEach items="${supplierList}" var="supplier">
+				<c:forEach items="${supplierList}" var="Supplier">
 					<tr>
 						<td>${supplier.supplierId}</td>
 						<td>${supplier.supplierName}</td>
